@@ -1,0 +1,79 @@
+{
+  "nav": {
+    "about": "关于",
+    "products": "产品",
+    "team": "团队",
+    "contact": "联系"
+  },
+  "hero": {
+    "superTitle": "以科技反叛未来",
+    "title": "CertiFerox 鼎革逐日 (CFXR)",
+    "subTitle": "CFX R 鼎革逐日 (CertiFerox) 是一家先锋创新公司，融合AI驱动的深度洞察与多学科专家知识，专注于打造面向未来人才的新一代教育科技产品与开发者平台。"
+  },
+  "problems": {
+    "title": "The Problems We Address",
+    "content": "众多行业和领域正陷入增长瓶颈，根源在于思维惯性、信息摩擦以及缺乏真正跨学科的深度整合能力。现有的创新模式往往无法触及问题的本质。"
+  },
+  "advantage": {
+    "title": "Competitive Advantage & Moat",
+    "advantageTitle": "Advantage",
+    "advantageContent": "战略咨询、AI数据建模、产品原型设计、多学科团队协作、高端品牌塑造。",
+    "moatTitle": "Our Moat",
+    "moatContent": "我们团队汇集了分析师、AI科学家、设计师和艺术家，使我们能够从多个维度系统性地解决复杂问题。通过射日计划产生的高质量内容和品牌魅力，以极低的成本吸引到最有潜力的核心用户群体。"
+  },
+  "products": {
+    "title": "Core Product Matrix",
+    "verisona": {
+      "title": "Verisona AI x 逐日计划",
+      "description": "颠覆传统留学中介模式，为申请者提供AI的高度个性化、全流程的智能申请辅助平台。我们与「逐日计划」合作，为家庭经济困难的学生提供半价会员资格，旨在通过科技打破教育壁垒。",
+      "model": "B2C/B2B/Freemium"
+    },
+    "meowoj": {
+      "title": "喵喵OJ",
+      "description": "面向全球编程爱好者的在线评测与学习社区。我们不仅提供高质量的竞赛题库，更融入了AI辅助学习和独特的社区激励机制。",
+      "model": "B2C/B2B"
+    },
+    "sunset_lab": {
+      "title": "射日计划 SUNSET Lab",
+      "description": "思想核心实验室，通过打造发人深省的数字艺术和网站探讨创新活动的本质，激发行业对话与吸引与我们价值观相同的顶尖人才。",
+      "model": "Not for profit"
+    }
+  },
+  "sunfind": {
+    "title": "Project SUNFIND 逐日计划 - 我们的助学承诺",
+    "content": "鼎革逐日 (CertiFerox) 坚信，才华不应被出身所限。因此，我们发起逐日计划，一项针对中产、贫困家庭学生的助学项目。通过与我们的旗舰产品 Verisona AI 联动，我们为符合条件的学生提供半价至最高全免会员资格，希望用科技的力量帮助每一位有志青年追逐自己的梦想，直至太阳边缘。"
+  },
+  "process": {
+    "title": "The CFXR Innovation Process",
+    "content": "洞察 → 设计 → 应用。三位一体的创新。"
+  },
+  "team": {
+    "title": "The Founder Team",
+    "members": {
+      "john": "John Park",
+      "jason": "Jason Wang",
+      "yuxuan": "Yuxuan Du",
+      "biaolin": "Biaolin Wen",
+      "jinchang": "Jinchang Liu"
+    },
+    "roles": {
+      "ceo": "CEO",
+      "cpo": "CPO",
+      "gm": "GM",
+      "cto": "CTO",
+      "cao": "CAO"
+    }
+  },
+  "culture": {
+    "title": "Team Culture",
+    "content": "大胆假设, 小心求证。知行合一，解构批判。"
+  },
+  "footer": {
+    "cta": "开启您的逐日之旅",
+    "email": "contact@certiferox.com",
+    "copyright": "© 2025 鼎革逐日 (CertiFerox)",
+    "tags": [
+      "Applied AI", "EdTech", "Developer Community", "Experience Design", "Compliant Operation"
+    ]
+  }
+}
